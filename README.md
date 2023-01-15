@@ -5,3 +5,7 @@ Bu kod, "olumlu", "tarafsız" ve "olumsuz" olarak etiketlenmiş yorumları içer
 Sonra, CountVectorizer sınıfı kullanılır ve yorumlar metin verileri sayısal özellik vektörlerine dönüştürülür. Bu vektörler, sınıflandırıcı için girdi olarak kullanılır. Sınıflandırıcı, MultinomialNB sınıfı kullanılarak eğitilir ve performansı accuracy değeri ile ölçülür.
 
 En sonunda, yeni yorumlar için tahminler yapılır ve yorumlar ve tahmin edilen duygu (olumlu, tarafsız veya olumsuz) ekrana yazdırılır.
+
+Eğitilip yorumları okudukta sonra çıkan çıktı.
+
+![alt text](https://cdn.discordapp.com/attachments/1063876459766226965/1064178390283858020/image.png)
