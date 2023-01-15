@@ -1,4 +1,4 @@
-# Sentiment Analizi İçin Python kodu Anlatımı
+# Sentiment Analizi İçin Python
 
 Bu kod, "olumlu", "tarafsız" ve "olumsuz" olarak etiketlenmiş yorumları içeren "yorumlar.txt" dosyasını okur. Dosyadaki her yorum ve etiket, "labeled_comments" listesine eklenir. Daha sonra, bu liste eğitim ve test verisi olarak ayırılır. Eğitim verisi, sınıflandırıcıyı eğitmek için kullanılırken, test verisi sınıflandırıcının performansını değerlendirmek için kullanılır.
 
